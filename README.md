@@ -62,7 +62,8 @@ R is a powerful statistic and graphics language and environment used by many ind
 #### Building Your Data Pipeline
 At School of Data, we like to think about the data analysis process as a pipeline. Below is a framework we usually use:
 
-School of Data Pipeline:![School of Data Pipeline](data_pipeline_schoolofdata.png =200x100)
+**School of Data Pipeline:**
+<img src="data_pipeline_schoolofdata.png" width="150">
 #### References & Resources
   - [RStudio Visualisation with ggplot2 cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/12/ggplot2-cheatsheet-2.0.pdf)
   - [R Project](https://www.r-project.org/)
