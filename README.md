@@ -1,14 +1,16 @@
 <img src="images/scodalogo.png" width=300/>
 
+#### Facilitator: David Selassie Opoku, School of Data
+
 # Driving Insights With R
 
-R is a powerful statistic and graphics language and environment used by many individual to get work done with data. In this short training, participants will learn about R, install a working version on their computer, get familiar with the language and environment and take it out for a simple test drive. By the end of this workshop, a participant should:
+R is a powerful statistic and graphics language and environment used by many individuals and organisations in their day-to-day work with data. In this short training, participants will learn about R, install a working version on their computer, get familiar with the language and environment and take it out for a simple test drive. By the end of this workshop, a participant should:
 
 - Know what R and RStudio are (pun intended!)
 - Have a working version of R and RStudio on their computers
 - Be familiar with some features of RStudio
 - Know some basic commands of the R language
-- Know how to utilise R packages
+- See the power of R packages and how to use them
 - Know where to go for a deeper dive into R
 
 
@@ -53,13 +55,12 @@ R is a powerful
     - Console
   - Help
 
-  - Exercise 2:
+  - **Exercise 2**:
     1. Create a new R Project
 
 #### Some Basic R Commands
-  - **Data Containers**: vector, matrix, array, dataframe, list.
-  - **Data Formats**:
-  - **Functions**: str, length, dim, names, summary, ls, help/?,  
+  - **Data Containers & Formats**: vector, matrix, array, data frame, list, factors.
+  - **Functions**: str, length, dim, names, summary, ls, help/?, read.csv, table, View etc.
 
 ### Part 2: Getting Hands-on
 
