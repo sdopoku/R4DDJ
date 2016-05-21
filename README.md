@@ -1,3 +1,5 @@
+<img src="images/scodalogo.png" width=300/>
+
 # Driving Insights With R
 
 R is a powerful statistic and graphics language and environment used by many individual to get work done with data. In this short training, participants will learn about R, install a working version on their computer, get familiar with the language and environment and take it out for a simple test drive. By the end of this workshop, a participant should:
@@ -31,6 +33,10 @@ R is a powerful statistic and graphics language and environment used by many ind
 ### Part 1: Introduction & Overview
 
 #### About R
+<img src="images/r_programming_language.png" width=120/>
+
+R is a powerful
+
 #### Downloading & Setup
   - Download R from CRAN website
   - Download RStudio IDE from [RStudio website](https://cran.r-project.org/)
@@ -62,7 +68,7 @@ R is a powerful statistic and graphics language and environment used by many ind
 #### Building Your Data Pipeline
 At School of Data, we like to think about the data analysis process as a pipeline. Below is a framework we usually use:
 <div style="text-align:center">
-<img src="data_pipeline_schoolofdata.png" width="150"></div>
+<img src="images/data_pipeline_schoolofdata.png" width="150"></div>
 #### References & Resources
   - [RStudio Visualisation with ggplot2 cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/12/ggplot2-cheatsheet-2.0.pdf)
   - [R Project](https://www.r-project.org/)
