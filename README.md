@@ -19,25 +19,51 @@ R is a powerful statistic and graphics language and environment used by many ind
 
 ## Outline
 
-- Miletstone 1
+### Part 1
+- Milestone 1
   - Define data-driven journalism (DDJ)
   - Outline DDJ process
   - Outline the Data Pipeline
   - Explore why data journalists should care about R.
+  - References
 
 
 - Milestone 2
   - Set up RStudio on local devices
-  - Set up RStudio using a
-  - Building Your Data Pipeline
-
-
-- Part 3
+  - Set up RStudio with a cloud service [RollApp](www.rollapp.com)
+  - Explore the RStudio environment and key features.
+  - Introduce some key R functions for DDJ.
   - References
 
-### Part 1: Introduction & Overview
+### Part 2
+- Milestone 3
+  - Concept of Grammar of Graphics.
+  - Introduction to **ggplot2**.
+  - Some graphs with ggplot2.
+  - References
 
-#### About R
+# Part 1
+### Milestone 1:  DDJ <> R - a relationship meant to be ?
+
+#### What is DDJ ?
+- **TO DO**: Define data-driven journalism (DDJ)
+
+
+#### DDJ Process
+- **TO DO**: Outline DDJ process
+
+#### Data Pipeline
+<div style="text-align:center">
+<img src="images/data_pipeline_schoolofdata.png" width="150"></div>
+- **TO DO**: Outline the Data Pipeline
+
+#### DDJ + R = ?
+- **TO DO**: Explore why data journalists should care about R.
+
+#### References
+- **TO DO**: A list of DDJ and R references
+
+## Milestone 2: Kicking off with R in the Studio.
 <img src="images/r_programming_language.png" width=120/>
 
 R is a powerful
@@ -71,8 +97,7 @@ R is a powerful
 #### The Power of R Packages
 #### Building Your Data Pipeline
 At School of Data, we like to think about the data analysis process as a pipeline. Below is a framework we usually use:
-<div style="text-align:center">
-<img src="images/data_pipeline_schoolofdata.png" width="150"></div>
+
 #### References & Resources
   - [RStudio Visualisation with ggplot2 cheatsheet](http://www.rstudio.com/wp-content/uploads/2015/12/ggplot2-cheatsheet-2.0.pdf)
   - [R Project](https://www.r-project.org/)
