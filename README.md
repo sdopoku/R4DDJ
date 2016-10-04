@@ -60,32 +60,41 @@ R is a powerful statistic and graphics language and environment used by many ind
 #### DDJ + R = ?
 - **TO DO**: Explore why data journalists should care about R.
 
+<img src="images/r_programming_language.png" width=120/>
+
 #### References
 - **TO DO**: A list of DDJ and R references
 
 ## Milestone 2: Kicking off with R in the Studio.
-<img src="images/r_programming_language.png" width=120/>
 
-R is a powerful
+#### About RStudio
+sRStudio is a powerful Integrated Development Environment(IDE) that provides a convenient environment to run R-related tasks and projects easily. I will briefly review some of the keys features of RStudio but see this [cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf) for more details.
 
-#### Downloading & Setup
-  - Download R from CRAN website
-  - Download RStudio IDE from [RStudio website](https://cran.r-project.org/)
 
-  - **Exercise 1**: Setup  RStudio on Your Computer
-    1. Go to [CRAN website](https://cran.r-project.org/), download your version of R and get it installed on your computer.
-    - Go to [RStudio website](http://www.rstudio.com), download your version of RStudio IDE and get it installed on your computer.
+#### RStudio Setup
+
+- **Setup  RStudio on Your Computer**
+  1. Go to [CRAN website](https://cran.r-project.org/), download your version of R and get it installed on your computer.
+  - Go to [RStudio website](http://www.rstudio.com), download your version of RStudio IDE and get it installed on your computer.
+
+
+- **Setup RStudio with RollApp Service**
+  1.  Visit [rollApp](www.rollapp.com) website.
+  - Sign up for an account.
+  - Ensure you can open and interact with RStudio application through rollApp platform.
+
 
 #### Getting Familiar with RStudio
-  RStudio is a powerful Integrated Development Environment(IDE) that provides a convenient environment to run R-related tasks and projects easily. I will briefly review some of the keys features of RStudio but see this [cheatsheet](http://www.rstudio.com/wp-content/uploads/2016/01/rstudio-IDE-cheatsheet.pdf) for more details.
+<img src="images/rstudio_environment_2.png">
   - Menus
   - Panes/Windows
     - Source Editor
     - Console
+  - Key Actions
+    1. Create a project
+    - Create a scipt
   - Help
 
-  - **Exercise 2**:
-    1. Create a new R Project
 
 #### Some Basic R Commands
   - **Data Containers & Formats**: vector, matrix, array, data frame, list, factors.
