@@ -1,31 +1,34 @@
 <img src="images/scodalogo.png" width=300/>
 
-#### Facilitator: David Selassie Opoku, School of Data
+# R 4 Data-driven Journalism (DDJ)
+#### School of Data Pre-event Training
+###### Facilitator: David Selassie Opoku, School of Data & Open Knowledge (@sdopoku)
 
-# Driving Insights With R
+# R4DDJ
 
-R is a powerful statistic and graphics language and environment used by many individuals and organisations in their day-to-day work with data. In this short training, participants will learn about R, install a working version on their computer, get familiar with the language and environment and take it out for a simple test drive. By the end of this workshop, a participant should:
+R is a powerful statistic and graphics language and environment used by many individuals and organisations in their day-to-day work with data. In this short training, we explore what doing **data-driven journalism (DDJ)** is, why R is a great tool for the modern data journalists, and get started learning key features of R for doing data-driven journalism. At the end of the session, participants should:
 
-- Know what R and RStudio are (pun intended!)
-- Have a working version of R and RStudio on their computers
-- Be familiar with some features of RStudio
-- Know some basic commands of the R language
-- See the power of R packages and how to use them
-- Know where to go for a deeper dive into R
+- Have a definition of what data-driven journalism is
+- Know what the process for doing data-driven journalism looks like.
+- Learn about the Data Pipeline used by School of Data.
+- Set up RStudio and be familiar with some features
+- Know some useful R commands for DDJ
+- Explore the ggplot2 package
+- Know where to go for a deeper dive into R 4 DDJ.
 
 
 ## Outline
 
-- Part 1
-  - About R
-  - Downloading & Setup
-  - Getting Familiar with RStudio
-  - Some Basic R Commands
+- Miletstone 1
+  - Define data-driven journalism (DDJ)
+  - Outline DDJ process
+  - Outline the Data Pipeline
+  - Explore why data journalists should care about R.
 
 
-- Part 2
-  - Working Dataset: Ghana Health Facilities
-  - The Power of R Packages
+- Milestone 2
+  - Set up RStudio on local devices
+  - Set up RStudio using a
   - Building Your Data Pipeline
 
 
